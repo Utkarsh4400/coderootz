@@ -1,6 +1,10 @@
 # coderootz
 ## Technical Round 1
 
+## To Run the Project:
+### Frontend: Download node modules and run command "npm start".
+### Backend: Download node modules and run command "npm run dev".
+
 ## Credentials:
 ### (Super Admin)
 ID: Utkarsh@4400 |
@@ -11,8 +15,8 @@ ID: Mohit@4400 |
 Pass: Password123
 
 ### (Sub User)
-ID: | 
-Pass:
+ID: ram@gmail.com | 
+Pass: Ram@4400
 
 ### (For Log in through Auth Token)
 Token | eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjkyNzM4YjY1YTExMTljOTAyOTI3MTgiLCJlbWFpbCI6InV0a2Fyc2hANDQwMCIsInJvbGUiOiJTdXBlckFkbWluIiwibmFtZSI6IlV0a2Fyc2ggQ2hhdWhhbiIsImlhdCI6MTcyMDkzOTQwOSwiZXhwIjoxNzIwOTUzODA5fQ.J-oiBgLhu2Fwfms9Ho-E3F1TT1cT0EsaopAyNr6mri0
